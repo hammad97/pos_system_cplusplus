@@ -1,0 +1,10 @@
+product id //double
+product name //char*
+cost price //double
+sale price //double
+unit price // depends int or double
+needed quantity //int 
+available quantity //int
+total quantity //int
+discount //double
+
